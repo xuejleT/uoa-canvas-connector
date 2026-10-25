@@ -1,0 +1,21 @@
+# Private user settings and credentials
+*.local.*
+.env
+.env.*
+!.env.example
+*credentials*
+*storage-state*
+*storageState*
+*cookies*
+browser-profile/
+user-data/
+# Course data and local outputs
+outputs/
+downloads/
+screenshots/
+tmp/
+*.log
+*.zip
+__pycache__/
+.DS_Store
+Thumbs.db
